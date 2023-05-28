@@ -60,6 +60,8 @@ También existe posibilidad de realizar su deploy para acceso público.
 
 -	La aplicación aparecerá desplegada en localhost
 
+#### Es todo. Muchas gracias!
+
 -------
 
 ### Autor:
