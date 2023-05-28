@@ -7,7 +7,7 @@
 
 -----
 
-* Proyecto que consiste en realizar una página web (Currículum Vitae) y realizar su exposición local. mediante 'runserver'.
+* Proyecto que consiste en realizar una página web (Currículum Vitae) y realizar su exposición local. Se utilizó python, html, css y se corre mediante 'runserver'.
 
 --> Se trata de una estructura conformada por 3 filas y 2 columnas:
 
