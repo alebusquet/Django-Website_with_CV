@@ -7,7 +7,6 @@ cligj==0.7.2
 contourpy==1.0.6
 dj-database-url==2.0.0
 Django==3.2.19
-django-heroku==0.3.1
 Fiona==1.9.4.post1
 geopandas==0.10.2
 numpy==1.21.6
