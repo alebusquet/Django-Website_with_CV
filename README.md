@@ -59,3 +59,14 @@ También existe posibilidad de realizar su deploy para acceso público.
 -	Abrir el navegador y pegar esa dirección
 
 -	La aplicación aparecerá desplegada en localhost
+
+-------
+
+### Autor:
+
+--> Alejandro Busquet
+
+* Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/ "Acá")
+
+* Mail: <a href="mailto:algabu00@gmail.com" target="_blank">algabu00@gmail.com</a>
+
