@@ -1,6 +1,6 @@
 # Website con Python y Django
 
-### Elaboración de una página web haciendo uso del framework Django con el lenguaje Python
+### Elaboración de una página web haciendo uso del lenguage Python con el framework Django
 -----
 
 #### •	Para ejecutarlo
