@@ -7,9 +7,9 @@
 
 -----
 
--> Proyecto que consiste en realizar una página web (Currículum Vitae) y realizar su exposición local. mediante 'runserver'.
+* Proyecto que consiste en realizar una página web (Currículum Vitae) y realizar su exposición local. mediante 'runserver'.
 
-* Se trata de una estructura conformada por 3 filas y 2 columnas:
+--> Se trata de una estructura conformada por 3 filas y 2 columnas:
 
 ** En la primera fila se presenta la foto y la especialización, junto con una breve descripción personal.
 
